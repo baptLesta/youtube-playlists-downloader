@@ -22,7 +22,7 @@ playlists = [
 ]
 
 for playlistLink in playlists:
-     os.system("youtube-dl -o \"~/Documents/Musique/Youtube Lib/%(playlist)s/%(title)s.%(ext)s\" -i {}".format(playlistLink))
+     os.system("youtube-dl --write-thumbnail --extract-audio --audio-format wav -o \"~/Documents/Musique/Youtube Lib/%(playlist)s/%(title)s.%(ext)s\" -i {}".format(playlistLink))
 
 
 

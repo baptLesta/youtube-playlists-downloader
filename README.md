@@ -12,6 +12,7 @@ FOLDER_PATH=${HOME}/Music
 
 Run, in the root project:
 ```
+pip install -U python-dotenv --user
 chmod u+x youtube-playlists-downloader.py
 ./youtube-playlists-downloader.py
 ```
@@ -19,5 +20,5 @@ chmod u+x youtube-playlists-downloader.py
 ## Create alias
 Add in you ~/.zshrc:
 ```
-alias maree-basse='python /Users/baptiste.lestavel/repo-perso/youtube-playlists-downloader/youtube-playlists-downloader.py'
+alias maree-basse='python <PATH_TO_THIS_APP_FOLDER>/youtube-playlists-downloader/youtube-playlists-downloader.py'
 ```

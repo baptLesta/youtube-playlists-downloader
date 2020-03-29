@@ -18,11 +18,13 @@ playlists = [
     "https://music.youtube.com/playlist?list=PLXWtlchonpjxx3e-kWx3jTaPjMDwh0PrD", # Ambiance
     "https://music.youtube.com/playlist?list=PLXWtlchonpjx5hZpacp6YMBBI4TWypyAW", # Kraby
     "https://music.youtube.com/playlist?list=PLXWtlchonpjwwaGgZOoa2IPoz1Qdbq6-F", # Pride
-    "https://music.youtube.com/playlist?list=PLXWtlchonpjwIqhhHgsKUO79E477v8hr-", # Step By aside
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjwIqhhHgsKUO79E477v8hr-", # Hummer
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjwd8J_wsfu9s1GAuZyEgfK-", # Step By aside
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjwv9GBF4QTWqoKMwiULceXx". # Diforme
 ]
 
 for playlistLink in playlists:
-     os.system("youtube-dl --write-thumbnail --extract-audio --audio-format wav -o \"~/Documents/Musique/Youtube Lib/%(playlist)s/%(title)s.%(ext)s\" -i {}".format(playlistLink))
+     os.system("youtube-dl --download-archive archive.txt --embed-thumbnail --extract-audio --audio-format mp3 --add-metadata  -o \"~/Documents/Musique/Youtube Lib/%(playlist)s/%(title)s.%(ext)s\" -i {}".format(playlistLink))
 
 
 

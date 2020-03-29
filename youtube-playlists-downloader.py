@@ -8,7 +8,7 @@ load_dotenv()
 FOLDER_PATH = os.getenv("FOLDER_PATH")
 
 playlists = [
-    "https://music.youtube.com/playlist?list=PLXWtlchonpjxPF4_YrGoQDMXQeP39ufKc", # Repetiv dancing house
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjzgnUf4nvxl_5u5tE9nYleE", # Repetiv dancing house
     "https://music.youtube.com/playlist?list=PLXWtlchonpjwtAu00PDSNAwZGFKkpkN4L", # Oscilloscope
     "https://music.youtube.com/playlist?list=PLXWtlchonpjxPF4_YrGoQDMXQeP39ufKc", # Transition Light
     "https://music.youtube.com/playlist?list=PLXWtlchonpjwLzSqgdmUSha6_ZNZeB8ND", # Disco soul and beats

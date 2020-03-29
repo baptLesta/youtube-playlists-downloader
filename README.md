@@ -19,5 +19,5 @@ chmod u+x youtube-playlists-downloader.py
 ## Create alias
 Add in you ~/.zshrc:
 ```
-alias maree-basse='python /Users/baptiste.lestavel/repo-perso/youtube-playlists-downloader/youtube-playlists-downloader.py'
+alias maree-basse='python <YOUR_PATH_TO_THIS_APP_FOLDER>/youtube-playlists-downloader/youtube-playlists-downloader.py'
 ```

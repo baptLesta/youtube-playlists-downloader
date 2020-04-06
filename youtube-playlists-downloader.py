@@ -28,6 +28,7 @@ playlists = [
     "https://music.youtube.com/playlist?list=PLXWtlchonpjwIqhhHgsKUO79E477v8hr-", # Hummer
     "https://music.youtube.com/playlist?list=PLXWtlchonpjwd8J_wsfu9s1GAuZyEgfK-", # Step By aside
     "https://music.youtube.com/playlist?list=PLXWtlchonpjwv9GBF4QTWqoKMwiULceXx", # Diforme
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjxgHKiCgYOv6iyrgGiAq1gX", # Italo, retro
 ]
 
 for playlistLink in playlists:

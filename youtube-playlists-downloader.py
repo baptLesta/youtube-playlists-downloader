@@ -29,6 +29,21 @@ playlists = [
     "https://music.youtube.com/playlist?list=PLXWtlchonpjwd8J_wsfu9s1GAuZyEgfK-", # Step By aside
     "https://music.youtube.com/playlist?list=PLXWtlchonpjwv9GBF4QTWqoKMwiULceXx", # Diforme
     "https://music.youtube.com/playlist?list=PLXWtlchonpjxgHKiCgYOv6iyrgGiAq1gX", # Italo, retro
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjwfK_luAnJf_if7lHVN02d9", # Piano
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjxIevzOG3hMgT2ecATmMI58", # Shampoing
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjwl3I1nX58JuAcWN2PEF2AE", # Indie
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjzBUyN0BvDd_w36zKVkZ_wD", # Sunny vibe
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjx4PJd_8s8PK_BtpPV5yY1F", # New Wave Vocal
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjwg6hv54O0pkSKOneOscpRV", # Melodic Vocal
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjwyVIZbYUp1r9yT3xaFmZ_A", # Transition Bass Dark
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjzvI56sNyq6CMUy7FQXVJTe", # In da Bowling
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjyj9-8ftB-5fVXC_8r6V_Pf", # Kraby Dark
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjyTFFv04iab_BgBF_Wiq7gL", # Eden Hasard
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjznOQ7SMugdNENUZjsvfA34", # Envole Lyrique
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjw3cIqf5fO7gONlFyjcjamb", # Down Temp Electronica
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjxPyCyKunwPOwELb4BAXQ5_", # Repetiv House
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjyqi8V1cmIVjwv4azXMy6CG", # Patinette
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjwfK_luAnJf_if7lHVN02d9", # Piano
 ]
 
 for playlistLink in playlists:

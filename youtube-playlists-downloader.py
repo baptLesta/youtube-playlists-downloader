@@ -44,6 +44,8 @@ playlists = [
     "https://music.youtube.com/playlist?list=PLXWtlchonpjxPyCyKunwPOwELb4BAXQ5_", # Repetiv House
     "https://music.youtube.com/playlist?list=PLXWtlchonpjyqi8V1cmIVjwv4azXMy6CG", # Patinette
     "https://music.youtube.com/playlist?list=PLXWtlchonpjwfK_luAnJf_if7lHVN02d9", # Piano
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjyuHnGPo5yrmH-lG7JxyIFG", # Hop House
+    "https://music.youtube.com/playlist?list=PLXWtlchonpjzuYMcea22Uff_lT_Xh0C0x", # Loklass
 ]
 
 for playlistLink in playlists:
